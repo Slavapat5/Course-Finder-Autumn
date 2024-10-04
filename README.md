@@ -1,7 +1,7 @@
-# Course-Finder-Autumn
-Course Finder Autumn Code
+# Course-Finder-Version-2
+Course Finder Version 2
 
-# CourseFinder
+# CourseFinder 2
 ## Description
 This is CourseFinder, an application to help students find and save courses they're interested in. Here's what users can do on CourseFinder:
 
